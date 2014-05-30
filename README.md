@@ -1,2 +1,2 @@
-VoxelizedHumanDoseMultiSDv1 - A Monte-Carlo Radiation Dosimetry tool for Patient-Specific Radiation Therapy Treatment Planning
+VoxelizedHumanDoseMultiSDv1 - A Monte-Carlo Dosimetry Tool for Radiation Therapy Treatment Planning
 ==============================================================================================================================
