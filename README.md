@@ -22,6 +22,13 @@ Poster presentation
 Oral presentation
 Publication (in review....)
 
+Future software improvement
+----------------------------
+- Optimize software for more efficient runtime
+- Implement factory design pattern
+- Migrate and optimize the code for multi-thread capability (GEANT4.10.xx)
+- Welcome any comment for improving the software design
+
 
 Active Team
 ------------------------
@@ -33,8 +40,9 @@ Prof. Youngho Seo, University of California, San Francisco (UCSF)
 Shih-ying Clare Huang, Ph.D, UCSF
 
 ### Inspirators, helpers, etc.
-Jungwook Shin, Ph.D.
-GEANT4 collaboratio community for debugging and development support and awesome workshops!
+- Jungwook Shin, Ph.D.
+- GEANT4 collaboration community for debugging and development support
+- Awesome GEANT4 workshops and instructors at SLAC, Stanford
 
 
 
