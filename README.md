@@ -10,17 +10,23 @@ Details
 --------------------
 okay, if introduction was not enough for you, here are something to help you see this software in its potential playing field!
 
+External beam radiation therapy has been an effective option to treat cancer when it's first diagnosed or localized diseases (i.e. stand-alone lesions easier to plan, treat, and target with external beam radiation source.  For relapses or refractory diseases, there has been a momentum in developing targeted radionuclide thearpy or any form of targeted therapy to provide more treatment options in addition to chemotherapy and radiation therapy.  However, radiation dose to patients using targeted radionuclide therapy has not been standardized and been actively investigated!  That's where this doisimetry tool comes in and do its magic to estimate radiation dose in a patient-specific approach.
 
-Application:
+### The tool performs the following steps:
+- Read in the voxelized volume of a reference human phantom or the patient's CT images to define simulation geometry (body size and tissue composition)
+- Read in the voxelized probability distribution of the radiation source
+- Simulate and track possible events of particles interacting in the defined geometry with the definied source distribution
+- Generate the dose output in voxelized format
 
-External beam radiation therapy has been an effective option to treat cancer when it's first diagnosed or localized diseases (i.e. stand-alone lesions easier to plan, treat, and target with external beam radiation source.  For relapses or refractory diseases, there has been a momentum in developing targeted radionuclide thearpy or any form of targeted therapy to provide more treatment options in addition to chemotherapy and radiation therapy.  However, radiation dose to patients using targeted radionuclide therapy has not been standardized and been actively investigated!
+For more information, the below poster will put this tool in context and explain how one can use this tool in the realm of cancer diagnosis and therapy.
 
 
-Press for this application:
 
-Poster presentation
-Oral presentation
-Publication (in review....)
+
+
+
+
+
 
 Future software improvement
 ----------------------------
@@ -33,14 +39,11 @@ Future software improvement
 Active Team
 ------------------------
 
-### Scientific Supervision
-Prof. Youngho Seo, University of California, San Francisco (UCSF)
-
 ### Core developers
 Shih-ying Clare Huang, Ph.D, UCSF
 
 ### Inspirators, helpers, etc.
-- Jungwook Shin, Ph.D.
+- Jungwook Shin, Ph.D. for his great help in getting started using Geant4
 - GEANT4 collaboration community for debugging and development support
 - Awesome GEANT4 workshops and instructors at SLAC, Stanford
 
