@@ -18,6 +18,11 @@ External beam radiation therapy has been an effective option to treat cancer whe
 - Simulate and track possible events of particles interacting in the defined geometry with the definied source distribution
 - Generate the dose output in voxelized format
 
+
+Note: this tool was developed using Geant4 toolkit version 4.9.6.p02.  Full installation of Geant4 on your OS is assumed to use this tool properly.  See this link for [the Geant4 installation videos](http://geant4.in2p3.fr/spip.php?article84&lang=en) and [the Geant4 installation guide](http://geant4.web.cern.ch/geant4/UserDocumentation/UsersGuides/InstallationGuide/html/).
+
+
+
 For more information, see [this poster](doc//I131MIBG_CologneANR2014_Huang.jpg) presented at Advanced Neuroblastoma Research, May 2014, Cologn, Germany for how to put this tool in context of cancer diagnosis and treatment!
 
 
@@ -31,8 +36,7 @@ Future software improvement
 
 Active Team
 ------------------------
-
-### Core developers
+## Core developers
 Shih-ying Clare Huang, Ph.D, UCSF
 
 ### Inspirators, helpers, etc.
