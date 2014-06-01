@@ -18,9 +18,7 @@ External beam radiation therapy has been an effective option to treat cancer whe
 - Simulate and track possible events of particles interacting in the defined geometry with the definied source distribution
 - Generate the dose output in voxelized format
 
-For more information, see the poster presented at Advanced Neuroblastoma Research, May 2014, Cologn, Germany.
-
-![MIBG poster](doc/I131MIBG_CologneANR2014_Huang.png)
+For more information, see [this poster](doc//I131MIBG_CologneANR2014_Huang.jpg) presented at Advanced Neuroblastoma Research, May 2014, Cologn, Germany for how to put this tool in context of cancer diagnosis and treatment!
 
 
 Future software improvement
