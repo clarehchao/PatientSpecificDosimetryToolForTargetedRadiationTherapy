@@ -3,7 +3,7 @@ A Monte-Carlo Dosimetry Tool for Radiation Therapy Treatment Planning
 
 Introduction
 -------------------
-The dosimetry tool has been developed to estimate more accurate radiation dose to patient by using a particle-transport Monte Carlo C++ toolkit, [GEANT4 (GEomtry ANd Tracking)](http://geant4.cern.ch/).  This Monte Carlo toolkit was first developed for high-energy physics applications, e.g. hadron physics, but physicists have been pulling/losing hairs to  implement and vadliate physics models for this toolkit to produce realistic models that would help users answer interestng research questions.  On top of all the physics awesomeness in GEANT4, the toolkit takes advantages of object-oriented programming for users to develop applications customized to his/her own need and design, e.g. tons of APIs action!
+The dosimetry tool has been developed to estimate more accurate radiation dose to patient by using a particle-transport Monte Carlo C++ toolkit, [GEANT4 (GEomtry ANd Tracking)](http://geant4.cern.ch/).  This Monte Carlo toolkit was first developed for high-energy physics applications, e.g. hadron physics, but physicists have been pulling/losing hairs to  implement and vadliate physics models for this toolkit to produce realistic models that would help users answer interestng research questions.  On top of all the physics awesomeness in GEANT4, the toolkit takes advantages of object-oriented programming for users to develop applications customized to his/her own need and design!
 
 
 Details
