@@ -13,7 +13,7 @@ A dosimetry tool has been developed to estimate more accurate radiation dose to 
 
 Details
 --------------------
-okay, if introduction was not enough for you, here are something to help you see this software in its potential playing field!
+Okay, if introduction was not enough for you, here are something to help you see this software in its potential playing field!
 
 External beam radiation therapy has been an effective option to treat cancer when the disease is first diagnosed or localized (i.e. stand-alone lesions easier to plan, treat, and target with external beam radiation source.  For relapses or refractory diseases, there has been a momentum in developing targeted radionuclide thearpy or any form of targeted therapy to provide more treatment options in addition to chemotherapy and radiation therapy.  However, radiation dose to patients using targeted radionuclide therapy has not been standardized and been actively investigated!  That's where this doisimetry tool comes in and do its magic to estimate radiation dose in a patient-specific approach.
 
@@ -30,7 +30,7 @@ Note: this tool was developed using Geant4 toolkit version 4.9.6.p02.  Full inst
 
 Findings
 --------------------
-This tool was found to be helpful in estimating near patient-specific dosimetry using a computation phantom as a surrogate of the patient's anatomy.  We were able to estimate radiation dose a patient underwent iodine-131 metaiodobenzylguanidine (MIBG) targeted radionuclide therapy with I-124-MIBG PET/CT pretherapy imaging.  We found that the I-124-MIBG PET/CT imaging was helpful to estimat the duration of radiation residing in the body (residence time) for the course of I-131 MIBG treatment.  Combining the patient-specific residence time with the dose estimate from the Monte Carlo dosimetry tool, the absorbed dose to healthy organs and lesions were estimated.  See more details and finding in [this poster](doc/I131MIBG_CologneANR2014_Huang.jpg) presented at Advanced Neuroblastoma Research, May 2014, Cologn, Germany.
+This tool was found to be helpful in estimating near patient-specific dosimetry using a computation phantom as a surrogate of the patient's anatomy.  We were able to estimate radiation dose a patient underwent iodine-131 metaiodobenzylguanidine (MIBG) targeted radionuclide therapy with I-124-MIBG PET/CT pretherapy imaging.  We found that the I-124-MIBG PET/CT imaging was helpful to estimat the duration of radiation residing in the body (residence time) for the course of I-131 MIBG treatment.  Combining the patient-specific residence time with the dose estimate from the Monte Carlo dosimetry tool, the absorbed dose to healthy organs and lesions were estimated.  See more details and finding in [this poster](doc/I131MIBG_CologneANR2014_Huang.jpg) presented at [Advanced Neuroblastoma Research, May 2014, Cologn, Germany](https://www.anr2014.com/).
 
 
 Future software improvement
