@@ -10,7 +10,7 @@ Details
 --------------------
 okay, if introduction was not enough for you, here are something to help you see this software in its potential playing field!
 
-External beam radiation therapy has been an effective option to treat cancer when it's first diagnosed or localized diseases (i.e. stand-alone lesions easier to plan, treat, and target with external beam radiation source.  For relapses or refractory diseases, there has been a momentum in developing targeted radionuclide thearpy or any form of targeted therapy to provide more treatment options in addition to chemotherapy and radiation therapy.  However, radiation dose to patients using targeted radionuclide therapy has not been standardized and been actively investigated!  That's where this doisimetry tool comes in and do its magic to estimate radiation dose in a patient-specific approach.
+External beam radiation therapy has been an effective option to treat cancer when the disease is first diagnosed or localized (i.e. stand-alone lesions easier to plan, treat, and target with external beam radiation source.  For relapses or refractory diseases, there has been a momentum in developing targeted radionuclide thearpy or any form of targeted therapy to provide more treatment options in addition to chemotherapy and radiation therapy.  However, radiation dose to patients using targeted radionuclide therapy has not been standardized and been actively investigated!  That's where this doisimetry tool comes in and do its magic to estimate radiation dose in a patient-specific approach.
 
 ### The tool performs the following steps:
 - Read in the voxelized volume of a reference human phantom or the patient's CT images to define simulation geometry (body size and tissue composition)
