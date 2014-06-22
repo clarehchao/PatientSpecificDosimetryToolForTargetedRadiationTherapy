@@ -43,23 +43,16 @@ Future software improvement
 
 Active Team
 ------------------------
-### Principle Investigator of 
-Prof. Youngho Seo, PhD, UCSF
-
-### Collaborators:
-Katherine K. Matthay, MD, UCSF
-Randall A. Hawkins, MD, PhD, UCSF
-Prof. Henry F. Van Brocklin, PhD, UCSF
-Choonsik Lee, PhD, National Cancer Institutes
-Westley E. Bolch, PhD, University of Florida
-
 ### Core developers
 Shih-ying Clare Huang, Ph.D, UCSF
 
-### Inspirators, helpers, etc.
+### Collaborators
 - Jungwook Shin, Ph.D. for his great help in getting started using Geant4
 - GEANT4 collaboration community for debugging and development support
 - Awesome GEANT4 workshops and instructors at SLAC, Stanford
+
+
+
 
 
 
