@@ -1,4 +1,4 @@
-A Monte-Carlo Dosimetry Tool for Radiation Therapy Treatment Planning
+A Monte Carlo Dosimetry Tool for Radiation Therapy Treatment Planning
 ===================================================================================================
 
 Introduction
