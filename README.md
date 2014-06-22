@@ -43,7 +43,17 @@ Future software improvement
 
 Active Team
 ------------------------
-## Core developers
+### Principle Investigator of 
+Prof. Youngho Seo, PhD, UCSF
+
+### Collaborators:
+Katherine K. Matthay, MD, UCSF
+Randall A. Hawkins, MD, PhD, UCSF
+Prof. Henry F. Van Brocklin, PhD, UCSF
+Choonsik Lee, PhD, National Cancer Institutes
+Westley E. Bolch, PhD, University of Florida
+
+### Core developers
 Shih-ying Clare Huang, Ph.D, UCSF
 
 ### Inspirators, helpers, etc.
