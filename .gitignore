@@ -1,3 +1,9 @@
 # ignore all duplicates
+*.txt~
+*.cc~
+*.hh~
+*.sh~
 *~
+*.C~
+*.mac~
 
